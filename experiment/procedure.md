@@ -1,4 +1,4 @@
-- Prepare a 1.3×10-4 M solution of anthracene in cyclohexane and a 2.3×10-4 M solution of quinine sulfate in aqueous 0.5 M H2SO4. The solution concentrations are chosen such that optical densities are less than 0.1 at the excitation wavelength. Here the solutions are taken in two volumetric flasks.
+- Prepare a 1.3 * 10-4 M solution of anthracene in cyclohexane and a 2.3 * 10-4 M solution of quinine sulfate in aqueous 0.5 M H2SO4. The solution concentrations are chosen such that optical densities are less than 0.1 at the excitation wavelength. Here the solutions are taken in two volumetric flasks.
 - Carry out the absorption and fluorescence measurements of the solutions as follows.
 - Click on the volumetric flask containing anthracene solution to take it to the instrument table.
 - Click on the quartz cuvette (path length, 1 cm * 1 cm) to take it to the instrument table. Quartz cuvettes for spectrophotometric measurements are transparent only on two opposite sides, unlike the all-side transparent quartz cuvettes used for fluorescence measurements.
