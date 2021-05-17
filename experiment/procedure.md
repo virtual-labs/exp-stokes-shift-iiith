@@ -1,7 +1,7 @@
 - Prepare a 1.3×10-4 M solution of anthracene in cyclohexane and a 2.3×10-4 M solution of quinine sulfate in aqueous 0.5 M H2SO4. The solution concentrations are chosen such that optical densities are less than 0.1 at the excitation wavelength. Here the solutions are taken in two volumetric flasks.
 - Carry out the absorption and fluorescence measurements of the solutions as follows.
 - Click on the volumetric flask containing anthracene solution to take it to the instrument table.
-- Click on the quartz cuvette (path length, 1 cm ×1 cm) to take it to the instrument table. Quartz cuvettes for spectrophotometric measurements are transparent only on two opposite sides, unlike the all-side transparent quartz cuvettes used for fluorescence measurements.
+- Click on the quartz cuvette (path length, 1 cm * 1 cm) to take it to the instrument table. Quartz cuvettes for spectrophotometric measurements are transparent only on two opposite sides, unlike the all-side transparent quartz cuvettes used for fluorescence measurements.
 - Click on the 5 mL-capacity pipette to collect 3 mL of the experimental solution which will be transferred into the quartz cuvette. In real operation, one has to set the volume to 3 mL in the pipette and an appropriate tip should be attached prior to dipping it in the solution.
 - Click on the pipette to draw the solution into it.
 - Click on the pipette to take it out of the volumetric flask.
@@ -19,7 +19,7 @@
 - Close the sample chamber lid by clicking on it.
 - Click on the pop-up: "Start Fluorescence measurement".
 - Turn on the spectrofluorimeter by clicking on the power button. In real operation, it takes approx. 30 min for initialization of the instrument.
-- Click on the spectrophotometric quartz cuvette to transfer its content into an all-side-transparent quartz cuvette of path length 1 cm ×1 cm for the fluorescence measurement.
+- Click on the spectrophotometric quartz cuvette to transfer its content into an all-side-transparent quartz cuvette of path length 1 cm * 1 cm for the fluorescence measurement.
 - Run the Emission Spectral Scan of the sample on a spectrofluorimeter as follows.
 - For placing the sample in the instrument, open the lid of the sample chamber of the spectrofluorimeter by clicking on the lid.
 - To place the cuvette in the sample holder, click on the cuvette.
