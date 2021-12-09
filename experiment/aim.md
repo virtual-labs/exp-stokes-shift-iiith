@@ -1,5 +1,2 @@
 In fluorescence, first the light (photon) absorption takes place leading to the electronic excitation and then part of the acquired (absorbed) electronic energy is lost via the emission of a new photon. Therefore, light absorption, excitation and emission are three important processes in fluorescence spectroscopy. These events are experimentally captured as absorption/excitation spectra and emission spectra and provide important information about the electronic distribution in ground and excited states of the molecules, any modification of the electronic distribution in these states due to charge transfer, solvent relaxation, etc. The absorption energy is higher than the emission energy and the emission energy is independent of the excitation one. In the following sections we shall discuss about the interrelationship among absorption, excitation and emission spectra. 
 
-#### Objective
-
-To understand the excitation and emission spectra, Mirror Image Relation and Stokes Shift in fluorescence spectroscopy.
